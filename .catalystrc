@@ -1,0 +1,29 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "7134000000003072",
+      "name": "MyApp",
+      "domain": {
+        "id": "10033645974",
+        "name": "myapp-763362811.development"
+      },
+      "env": [
+        {
+          "idx": 1,
+          "id": "763362811",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}

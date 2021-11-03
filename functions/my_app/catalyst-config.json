@@ -1,0 +1,10 @@
+{
+	"deployment": {
+		"name": "my_app",
+		"stack": "node12",
+		"type": "advancedio"
+	},
+	"execution": {
+		"main": "handler.js"
+	}
+}
